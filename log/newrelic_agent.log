@@ -1,0 +1,341 @@
+# Logfile created on 2017-02-01 08:39:40 -0200 by logger.rb/54362
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Environment: development
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : No known dispatcher detected.
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Application: My Application (Development)
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Net instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 08:39:40 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Finished instrumentation
+[2017-02-01 08:39:43 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Starting the New Relic agent in "production" environment.
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Environment: production
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : No known dispatcher detected.
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Application: My Application
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Net instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 08:40:13 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Finished instrumentation
+[2017-02-01 08:40:15 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 08:40:16 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570141
+[2017-02-01 08:42:16 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 08:49:27 -0200 joaocv3-ubuntu-proreg (29723)] INFO : Starting Agent shutdown
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Starting the New Relic agent in "production" environment.
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Environment: production
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : No known dispatcher detected.
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Application: My Application
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Net instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 08:57:53 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Finished instrumentation
+[2017-02-01 08:57:54 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 08:57:56 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570141
+[2017-02-01 09:00:39 -0200 joaocv3-ubuntu-proreg (30735)] INFO : Starting Agent shutdown
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Starting the New Relic agent in "production" environment.
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Environment: production
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : No known dispatcher detected.
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Application: My Application
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Net instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:00:45 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Finished instrumentation
+[2017-02-01 09:00:47 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 09:00:48 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570141
+[2017-02-01 09:02:43 -0200 joaocv3-ubuntu-proreg (31143)] INFO : Starting Agent shutdown
+[2017-02-01 09:05:53 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Starting the New Relic agent in "production" environment.
+[2017-02-01 09:05:53 -0200 joaocv3-ubuntu-proreg (32033)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Environment: production
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : No known dispatcher detected.
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Application: My Application
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Net instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:05:54 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Finished instrumentation
+[2017-02-01 09:05:56 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 09:05:57 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570141
+[2017-02-01 09:44:40 -0200 joaocv3-ubuntu-proreg (32033)] INFO : Starting Agent shutdown
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Starting the New Relic agent in "production" environment.
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Environment: production
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : No known dispatcher detected.
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Application: My Application
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Net instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:44:57 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Finished instrumentation
+[2017-02-01 09:45:00 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 09:45:00 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570141
+[2017-02-01 09:46:20 -0200 joaocv3-ubuntu-proreg (29631)] INFO : Starting Agent shutdown
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Environment: development
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : No known dispatcher detected.
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Application: My Application (Development)
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Net instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:46:23 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Finished instrumentation
+[2017-02-01 09:46:26 -0200 joaocv3-ubuntu-proreg (2488)] INFO : Starting Agent shutdown
+[2017-02-01 09:46:26 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Environment: development
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : No known dispatcher detected.
+[2017-02-01 09:46:35 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Application: My Application (Development)
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Net instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Finished instrumentation
+[2017-02-01 09:46:36 -0200 joaocv3-ubuntu-proreg (2979)] INFO : Starting Agent shutdown
+[2017-02-01 09:46:49 -0200 joaocv3-ubuntu-proreg (2826)] INFO : Starting Agent shutdown
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Environment: development
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : No known dispatcher detected.
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Application: My Application (Development)
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Net instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:46:52 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Finished instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Environment: development
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : No known dispatcher detected.
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Application: My Application (Development)
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Net instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 09:46:53 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Finished instrumentation
+[2017-02-01 09:46:54 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 09:46:55 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 09:46:56 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:02:24 -0200 joaocv3-ubuntu-proreg (3113)] INFO : Starting Agent shutdown
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Environment: development
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : No known dispatcher detected.
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Application: My Application (Development)
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:02:38 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Net instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:02:39 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Finished instrumentation
+[2017-02-01 10:02:42 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:14:51 -0200 joaocv3-ubuntu-proreg (3242)] INFO : Starting Agent shutdown
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Environment: development
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : No known dispatcher detected.
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Application: My Application (Development)
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Net instrumentation
+[2017-02-01 10:39:27 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:39:28 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:39:28 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:39:28 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:39:28 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:39:28 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Finished instrumentation
+[2017-02-01 10:39:29 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 10:39:30 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:41:46 -0200 joaocv3-ubuntu-proreg (11290)] INFO : Starting Agent shutdown
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Environment: development
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : No known dispatcher detected.
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Application: My Application (Development)
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Net instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Finished instrumentation
+[2017-02-01 10:41:51 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 10:41:54 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:42:11 -0200 joaocv3-ubuntu-proreg (11880)] INFO : Starting Agent shutdown
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Environment: development
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : No known dispatcher detected.
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Application: My Application (Development)
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Net instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:42:16 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Finished instrumentation
+[2017-02-01 10:42:17 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 10:42:19 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:44:46 -0200 joaocv3-ubuntu-proreg (8300)] INFO : Starting Agent shutdown
+[2017-02-01 10:44:47 -0200 joaocv3-ubuntu-proreg (12000)] INFO : Starting Agent shutdown
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Environment: development
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : No known dispatcher detected.
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Application: My Application (Development)
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Net instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:44:49 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Finished instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Starting the New Relic agent in "development" environment.
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Reading configuration from config/newrelic.yml (/home/joaocv3/programming/bitbucket/proreg)
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : New Relic Agent Developer Mode enabled.
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Environment: development
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : No known dispatcher detected.
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Application: My Application (Development)
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Net instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing ActiveJob instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Rails 4 view instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Rails 4 Controller instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Installing Rails 4 Error instrumentation
+[2017-02-01 10:44:51 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Finished instrumentation
+[2017-02-01 10:44:52 -0200 joaocv3-ubuntu-proreg (12267)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:44:52 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-02-01 10:44:54 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1543131/applications/44570113
+[2017-02-01 10:45:02 -0200 joaocv3-ubuntu-proreg (12301)] INFO : Starting Agent shutdown
